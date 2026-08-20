@@ -5,4 +5,6 @@ chicken
 orange juice
 cofee
 
+pears
+cherries
 
